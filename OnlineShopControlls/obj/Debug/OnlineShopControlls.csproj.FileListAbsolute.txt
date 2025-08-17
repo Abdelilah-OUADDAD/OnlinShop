@@ -1,0 +1,9 @@
+C:\Users\Dell\Desktop\Project_Windows-Forms\OnlineShop\OnlineShopControlls\bin\Debug\OnlineShopControlls.dll
+C:\Users\Dell\Desktop\Project_Windows-Forms\OnlineShop\OnlineShopControlls\bin\Debug\OnlineShopControlls.pdb
+C:\Users\Dell\Desktop\Project_Windows-Forms\OnlineShop\OnlineShopControlls\bin\Debug\OnlineShopData.dll
+C:\Users\Dell\Desktop\Project_Windows-Forms\OnlineShop\OnlineShopControlls\bin\Debug\OnlineShopData.pdb
+C:\Users\Dell\Desktop\Project_Windows-Forms\OnlineShop\OnlineShopControlls\obj\Debug\OnlineShopControlls.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Project_Windows-Forms\OnlineShop\OnlineShopControlls\obj\Debug\OnlineShopControlls.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Project_Windows-Forms\OnlineShop\OnlineShopControlls\obj\Debug\OnlineSh.C8DD9DEC.Up2Date
+C:\Users\Dell\Desktop\Project_Windows-Forms\OnlineShop\OnlineShopControlls\obj\Debug\OnlineShopControlls.dll
+C:\Users\Dell\Desktop\Project_Windows-Forms\OnlineShop\OnlineShopControlls\obj\Debug\OnlineShopControlls.pdb
